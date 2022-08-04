@@ -1,2 +1,2 @@
-# DataFrame
-Dasar-dasar pandas terkait DataFrame
+# Data Manipulation
+Python, Numpy, dan Pandas for Data Science
